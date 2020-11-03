@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jax777/jax777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Application security
 - 🌱 I’m currently learning ...
@@ -13,4 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://github-readme-stats.vercel.app/api?username=jax777&show_icons=true&hide_title=false)
+
+
+![Visitor Count](https://profile-counter.glitch.me/jax777/count.svg)
